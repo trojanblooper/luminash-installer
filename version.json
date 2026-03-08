@@ -1,7 +1,7 @@
 {
-    "latest": "1.37",
-    "download_url": "https://github.com/trojanblooper/luminash-installer/releases/download/v1.37/Luminash_Super_v1.37.msi",
-    "release_notes": "Crop preview overlay, live view safe zone indicator, auto-updater, upload photos default ON, stale session order_id fix",
-    "release_date": "2026-03-04",
+    "latest": "1.38",
+    "download_url": "https://github.com/trojanblooper/luminash-installer/releases/download/v1.38/Luminash_Super_v1.38.msi",
+    "release_notes": "Enhance webcam frame rate, camera setup reminder, new mail server",
+    "release_date": "2026-03-08",
     "min_supported": "1.0"
 }
