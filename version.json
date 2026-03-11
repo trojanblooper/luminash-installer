@@ -1,7 +1,7 @@
 {
-    "latest": "1.38",
-    "download_url": "https://github.com/trojanblooper/luminash-installer/releases/download/v1.38/Luminash_Super_v1.38.msi",
-    "release_notes": "Enhance webcam frame rate, camera setup reminder, new mail server",
-    "release_date": "2026-03-08",
+    "latest": "1.39",
+    "download_url": "https://github.com/trojanblooper/luminash-installer/releases/download/v1.39/Luminash_Super_v1.39.msi",
+    "release_notes": "Enhance portrait orientation",
+    "release_date": "2026-03-11",
     "min_supported": "1.0"
 }
