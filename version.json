@@ -1,7 +1,7 @@
 {
-    "latest": "1.41",
-    "download_url": "https://github.com/trojanblooper/luminash-installer/releases/download/v1.41/Luminash_Super_v1.41.msi",
-    "release_notes": "Booth Cloud Settings, Multi Booth Frame, Upload Improvement",
-    "release_date": "2026-04-28",
+    "latest": "1.42",
+    "download_url": "https://github.com/trojanblooper/luminash-installer/releases/download/v1.42/Luminash_Super_v1.42.msi",
+    "release_notes": "Hotfix GIF, Booth Cloud Settings, Multi Booth Frame, Upload Improvement",
+    "release_date": "2026-05-02",
     "min_supported": "1.0"
 }
