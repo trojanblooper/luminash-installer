@@ -1,7 +1,7 @@
 {
-    "latest": "1.45",
-    "download_url": "https://github.com/trojanblooper/luminash-installer/releases/download/v1.45/Luminash_Super_v1.45.msi",
+    "latest": "1.46",
+    "download_url": "https://github.com/trojanblooper/luminash-installer/releases/download/v1.46/Luminash_Super_v1.46.msi",
     "release_notes": "Fix Autofocus, Fix Camera Disconnected, Fix Doku Scroll, Hotfix GIF, Fix White Screen, Fix Voucher",
-    "release_date": "2026-05-10",
+    "release_date": "2026-05-13",
     "min_supported": "1.0"
 }
