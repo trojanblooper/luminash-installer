@@ -1,7 +1,7 @@
 {
-    "latest": "1.46",
-    "download_url": "https://github.com/trojanblooper/luminash-installer/releases/download/v1.46/Luminash_Super_v1.46.msi",
-    "release_notes": "Fix Autofocus, Fix Camera Disconnected, Fix Doku Scroll, Hotfix GIF, Fix White Screen, Fix Voucher",
-    "release_date": "2026-05-13",
+    "latest": "1.47",
+    "download_url": "https://github.com/trojanblooper/luminash-installer/releases/download/v1.47/Luminash_Super_v1.47.msi",
+    "release_notes": "Add Print QR, Operator Shortcut, Fix Autofocus, Fix Camera Disconnected, Fix Doku Scroll, Hotfix GIF, Fix White Screen, Fix Voucher",
+    "release_date": "2026-05-23",
     "min_supported": "1.0"
 }
