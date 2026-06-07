@@ -1,7 +1,7 @@
 {
-    "latest": "1.46",
-    "download_url": "https://github.com/trojanblooper/luminash-installer/releases/download/v1.46/Luminash_Super_v1.46.msi",
-    "release_notes": "Duplicate Slot, Add Print QR, Operator Shortcut, Fix Autofocus, Fix Camera Disconnected, Fix Doku Scroll, Hotfix GIF, Fix White Screen, Fix Voucher",
-    "release_date": "2026-05-25",
+    "latest": "1.50",
+    "download_url": "https://github.com/trojanblooper/luminash-installer/releases/download/v1.50/Luminash_Super_v1.50.msi",
+    "release_notes": "Local Storage Settings, Duplicate Slot, Add Print QR, Operator Shortcut, Fix Autofocus",
+    "release_date": "2026-06-07",
     "min_supported": "1.0"
 }
