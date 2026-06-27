@@ -1,7 +1,7 @@
 {
-    "latest": "1.51b",
-    "download_url": "https://github.com/trojanblooper/luminash-installer/releases/download/v1.51b/Luminash_Super_v1.51b.msi",
+    "latest": "1.51c",
+    "download_url": "https://github.com/trojanblooper/luminash-installer/releases/download/v1.51c/Luminash_Super_v1.51c.msi",
     "release_notes": "Improve QR Print Cut, Fix ESC button, PC Health Status, Local Storage Settings, Duplicate Slot, Add Print QR, Operator Shortcut, Fix Autofocus",
-    "release_date": "2026-06-20",
+    "release_date": "2026-06-27",
     "min_supported": "1.0"
 }
