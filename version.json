@@ -1,7 +1,7 @@
 {
-    "latest": "1.54b",
-    "download_url": "https://github.com/trojanblooper/luminash-installer/releases/download/v1.54b/Luminash_Super_v1.54b.msi",
+    "latest": "1.55",
+    "download_url": "https://github.com/trojanblooper/luminash-installer/releases/download/v1.55/Luminash_Super_v1.55.msi",
     "release_notes": "Custom UI Visual, Dual Camera, Stability",
-    "release_date": "2026-07-18",
+    "release_date": "2026-07-22",
     "min_supported": "1.0"
 }
