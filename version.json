@@ -1,7 +1,7 @@
 {
-    "latest": "1.59b",
-    "download_url": "https://github.com/trojanblooper/luminash-installer/releases/download/v1.59b/Luminash_Super_v1.59b.msi",
+    "latest": "1.62",
+    "download_url": "https://github.com/trojanblooper/luminash-installer/releases/download/v1.62/Luminash_Super_v1.62.msi",
     "release_notes": "(NEW) DNP Print Counter, 3rd Printer, Fix Voucher, Operator Menu, Keyboard, Remote Print, Remote Upload, Stability",
-    "release_date": "2026-09-17",
+    "release_date": "2026-10-07",
     "min_supported": "1.0"
 }
